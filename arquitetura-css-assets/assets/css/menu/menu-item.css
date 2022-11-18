@@ -1,7 +1,9 @@
 .menu__item {
+    display: flex;
     list-style: none;
 }
 
 .menu__item:last-child .menu__link{
+    display: flex;
     margin-right: 0;
 }

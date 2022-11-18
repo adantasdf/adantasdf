@@ -1,4 +1,5 @@
 .sobre{
+    display: flex;
     padding: 2.5rem;
     text-align: center;
 }

@@ -1,5 +1,6 @@
 .banner__titulo{
     color: #fdfdfd;
+    display: flex;
     font-family: Pacifico, cursive;
     font-size: 5.0625rem;
     position: absolute;

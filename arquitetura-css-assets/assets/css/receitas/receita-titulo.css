@@ -1,3 +1,4 @@
 .receita__titulo{
+    display: flex;
     font-size: 1.4375rem;
 }
