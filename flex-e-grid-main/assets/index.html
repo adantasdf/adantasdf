@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap">
     <link rel="stylesheet" href="./css/reset.css">
     <link rel="stylesheet" href="./css/estilos.css">
+    
 </head>
 <body>
     <header class="cabecalho">
@@ -20,13 +21,29 @@
     </header>
     <nav class="menu-lateral">
         <img src="../assets/img/logo.svg" alt="Logotipo da HZC" class="menu-lateral__logo">
-        <a href="#" class="menu-lateral__link">Inicio</a>
-        <a href="#" class="menu-lateral__link">Videos</a>
-        <a href="#" class="menu-lateral__link">Picos</a>
-        <a href="#" class="menu-lateral__link">Integrantes</a>
-        <a href="#" class="menu-lateral__link">Camisas</a>
-        <a href="#" class="menu-lateral__link">Pinturas</a>
+        <a href="#" class="menu-lateral__link--inicio menu-lateral__link--ativo ">Inicio</a>
+        <a href="#" class="menu-lateral__link--videos">Videos</a>
+        <a href="#" class="menu-lateral__link--pícos">Picos</a>
+        <a href="#" class="menu-lateral__link--integrantes">Integrantes</a>
+        <a href="#" class="menu-lateral__link--camisas">Camisas</a>
+        <a href="#" class="menu-lateral__link--pinturas">Pinturas</a>
 
     </nav>
+    <main class="principal">
+        <h2 class="titulo-pagina">Inicio</h2>
+        <article class="cartao">
+            <img src="../assets/img/banner-mobile_1.png" alt="Banner do cartao" class="cartao__imagem">
+            <div class="cartao__conteudo">
+                <p class="cartao destaque">Video em destaque</p>
+                <h3 class="cartao__titulo">HZC - Titulo</h3>
+                <p class="cartao__perfil">Andre Americo</p>
+                <p class="cartao__info cartao__info--tempo">33 minutos</p>
+                <p class="cartao__info cartao__info--visualizacao">33 visualizações</p>
+                <button class="cartao__botao cartao__botao--play cartao__botao--destaque">Assitir agora</button>
+            </div>
+        </article>
+
+    </main>
+    <script src="index.js"></script>
 </body>
 </html>
