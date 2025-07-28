@@ -1,16 +1,88 @@
-# Olá esse é minha pagina GitHub.
-<!-- Cabeçalhos -->
+<h1 align="center">Olá, eu sou o André Dantas 👋</h1>
+<h3 align="center">Sou uma pessoa com deficiencia auditiva 🦻 e com Autismo 💙🧩.</h3>
 
-# Titulo 1
-## Titulo 2
-### Titulo 3
-#### Titulo 4
-##### Titulo 5
-###### Titulo 6
+<p align="center">
+  <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJQBDgMBEQACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAADAAIEBQYHAQj/xABLEAACAQMBBAcCBg4IBwEAAAABAgMABBEFBhIhMQcTIkFRYXGBkRQXIzKhwRU1QlJVYnOTsbLR0uHwJCVWcpKUs9MWM0RjZIPDQ//EABoBAAMBAQEBAAAAAAAAAAAAAAABAgMEBQb/xAA1EQACAgEDAgIHBwUAAwAAAAAAAQIRAwQhMRJBMlETImGBkcHRBRQjM1JxsUJioeHwFXKy/9oADAMBAAIRAxEAPwDklACoAVACoAVACoAVACoAVAHuKYj2gBUxDhTEeigQ4CmSPApomx4FMlseFoFYRVoJsIq0MVjwlSwseEpMLHBKhjscEqGVYtypY0z3cqWVZ4U41JZ4UqbGDKUWNDGSiygZWnYA2WqsYMinYDCKYEXFbAe4oAWKAFigBAEnAGT5UgHPFJGQJI3QnlvKRmm01yJNPg9FvOcgQykjn2DQHVHzEbecEZgl48B2DxpWgUovhjVikYsFjclfnAKeHrTugtHpjcBCUYb/AM3KntenjR5+wB4t5yzKIJSV5gRnI9aXVHmwoaVZDh1ZSO4jBq7JYhTEOApkjwKZDY8CqJbCKKZNhFWghsKq0CsKq0gsIEqWKwix1LCx4jrNjscEqWVZ71dQykxdVWbZaZ4Y6mykxhjqbKGMlFlAmSiykCZadjBMtUmMEy00wBkVSAi4roGLFIBYoAWKANHsLBGdQurh0V3t7YvGrDPazz9n1116JLqk32Rjm8NeZOlm1LUtmY7q9nsrxBNG4kGesiJYdnwq5vJPCpypnJWPHnqKa29zLTU9WvrTb63s4Jdy3uBF1qYHHg3fXNn2nRzYsMJaNykt1fyFHq17cdI0GnTTb1pBcyGOPdHAiFwP1jXFmj6jYPDjjoXNLel/9Ik7O2Njb6vtBPbatDdTyxy9ZbiIqYjljxJ58eFceeUpQgnGuDR5cjx41KNfMq9ZINt0fZ4/0df/AI1WKr1Ff9yd+N3KX7m0aZoL7a6ZLxbMokTC5ZN4Rdg9ojvryZJSjhXT1Lfa+dzuwypN2YzpEKz6Zot2rxXhkRg2oRqFEp8Mcxy769T7LXRkyR4r+nyDUv1Iv/mYcV7JxDwKZLHgVRDYRRTIbCKtOiGwyrToiwypQ0TYVUqWgsMqVLFYVUqGFjwlZsdjhF5VDKTHCOs2WmemPx4etZNlpjTF5VLZaYwx1NloE0dKykBZKaZaBOlOxkd1qkxgmWqTGBYVQEXdrqKo93aQCxSELd4GixUSNNvbjTbtbmzYLKAVO8MqynuI7xV48sscuqInFSVMsbvaK4ntfgsFpZ2kBcPItvDu75Bzk+6tZ6qUo0kl+xhHTwUut22Autbu7nW4dYkWIXMW7uqoO6cZA789/jWM5ubthDTQjheJcMamt3ce0B1sJD8K32fdKncyVKnhnPI+NZySkqB6aLw+h7D9N1+706+vruBIDJeqwlDqSBvEk4wfOonhU0k+w5YFKEY+RN0jbC/02xt7N7WxvI7XJtmuot54fQ+WfI+dZ5dJCcnJNq+a7lOC6nJHljtlqdpJqLzQ2d79kGDXC3UJdGxw3d3IGKU9BimopNx6eKde00jNw2Iut7QXutJbxXUdrDb2wxDBaxdXGnsya10+lx4G5Rtt8t7sMmWU69hVgV1oxY9RTRLCKKtGbYRRVUQ2GQU6M2w6LTohsOi0iLDIlILDolQxWFVKhhYQR1myrJVtYz3H/KjJHj3URxTnwjWEJS4RYxaETxllA8lGa2Whk/EzdYWuWSF0K2xxeT2YH1Vf3DH3bBxSPG2ftz82WQHzANS/s7G/6mJyoh3Gz06gmCRZB4Hga5Z/Z014X8gWVdyoubWWB9yaNkbzFcE4TxupKjeLT4Ijpg8aiy0R5Fp2UR3WrTGBdaqxgGFWmBG3a7Cz3dpWFC3amxC3aALjZfT7bUL6aO6iMiJAzhQxGTlfD1NdejxRy5GpcVf8Ey4Da9pdjBo0N/Fbz2Ezybptp2ySMc+PKnqcOOONZEnFvszDHOTydLJd7s3bQ7NLIozqsMKXFwpY8EYnhjlw4j2VnPFFY7fJy49VKWen4Las9OzNtc7IW19ZKfsj1XXFd4nrlHzgAeHIg8PDzrmeyTF97nDUuE/DdFtb7K6K+rxQPbt1LWAnYCVvncMn3Vx5M01B0c/33KoN/wB1FUmysFpY6+L6IyXFnLH8Gm3iA0bZIYDkcj3HNOWpk5w6Xs+fcd8c3U40W+uaBomj5ZNlNQvIEg62S4iunCKMZOcnu51yYdRmyqvSqO/DXJvB7bjhs1oEcWh276NeTy6hbq0lzDO+7G26CSRnAqPvmqbySU0lF8UtztjhxNpOPJVWGzmnpNrPyUmoy2Nx1UNssm4zrgHJxz7/AC4HhXVk12VrFv0dStuuCsOlxXO11tdii1qKxiugNPSeIFflYZlIMbeGTzr0dLLLKLeSn5Ndzj1kMMZJYrXmn2IaiutHCwiiqRm2HQVRmw6CnRFkhFpUS2SEWk0TYdFqGgsOkZYgBST3Y76za7DW+xeWGkKuJLrtHuQHgPWunHp0t5HoYtKlvMtFUAcMADhgV1ccHQ3XAC91Cy09A19dwQKeXWOBn08amU4x5ZDsp5Nudm42K/ZDeI+8hcj34rJ6jGu5LxyfYJb7a7OXDbq6kiH/ALkboPeRihZ8b7mUsc12L21uILqIS200c0bcmRgQfbV9Sa2OeSa5HzQRzxtHLGrr4NWc4xmqkhJtPZmZ1nQWt1M9pl4RxZDxZf2ivG1GjeP1ocHZiz3tLkzsi1xJnURpFq0xgHFWmMjuONWmADdrtZrQ7dqGKhbtKwoW7SsVFrs3fW+nXs0t0XCPCUBQZOcj9ldeizxw5G5+VfwJ8E6TVNMNna2DS3VzFHOssk065bA44HryrWeow9McdtpO7ZzSxztyjzROXa60k1Kfr7JRayqYzOoJkZO7IqMmrjOb8jjloJ9Calvd0QJdoLezs9GTTWkMlhK2+CuAyEYx55Fcc2uEWtJOcsjyLxfyWsm1ulHV2uUE6wmyaHHVcmzy9K5J4XJV7TmWhzRgo97sg2u1UDbIPpd8ZDeqBEkgXO+gPZyfEcR50paeXp1kXB3egccvVHh7kvXtZ2f1xw8ms6zbIYOqaCBMRsORyPOstPgz4dlCL35ZrBUtw6beW9vNoUUUkxtIbTqb6IpjtboAI8cYPvrB/ZkprI5JdTdrf/B2R1KhKJQ2VzoUc19Fv3cLNOXtb+MESBDg7rD19+a75w1MlF7PbePaxYsmni5dVq3s+4HafU7fU7uE22+whj3DLIuGkPjW+h088MX19+3kR9oamGeUejt38yqSu9HmsKoq0ZsOgqkjNkiMUyGSYxRRDJCCk0KyQgqGgs0Ol2IhQSuPlDyz9yK6MWNR3Z6mmwrGut8ky5uIbSCS4upVihQZZ2PAVpKXSrZu2cz2j6Qbq7Z4NHzbQcuuI7bfsrhyaly2jwCj5mJlmeaVpZnaR2OSznJPtNc12WN3uOaYCDYpASdP1C706frrG4kgk8UOM+o76abXAnFS2Z0nZXpEjunS113dikOAtwvBSfxh3etbwy9mceXT94nQwOHdVtnGZLajRxbZvbVMQswEijkhPf6V5WqwKD64nfp8vV6rMvIPCuVHURnFWhkdxxq0A0JXczoPQtQxC3KhioW5U2Jolabpz6hcNDGwUpGZCT4AgfXW+nwPPNwXlYKNkLGa5k9tyNy3stnXuLWC4nure168/IrKcGT0rqjp5OCnJpXwcmXVKMnGMW659hV6hYzafdyWtwm7Kh7X1VjKLjKmbYpwyRU4kvR9Dm1NJZzNDa2kA+Unm4KtRKdGOfUrC1FK2+w3V9CuNKltQ8sUtvdY6i4iPYbiPpox5VJP2BhzxyJ0qa7eROvtjb6y1fT9OkmhPw5sRTKDuq2DkH2VnHWQlilNf0lQmpoptUsn07UrmxkcO8D7hZc4J5/XXVhyekxqS4Y2WOk7OyX+ntqE93bWdmknVCWc8GbwHvxWWfWLFNY4xcnV0uxth07yR63KkRdW0uXSrz4NMyMSodXTky10abURzw64qjHUYXgn0SdkZBXUjlYdBxq0ZsOlUjNkhBVUQyTGKKIZJQUmIt9GtRNNvuMqn6aeONs6dLjUp2+EaBiFDMxAUDJJ+mt/aek5HHdttqJdbvjDbuVsIWxGoPzz98fqrzc2Xre3BSVFbs9oN1r921vZsqlE32Z+QqIQc3SFKSirYXXNldU0Tt3cO9CTjrYzvL7fCnPFKHIoZIy4ZSojO26isx8AMms+S+OT14njIEiMhP3wxTBbllomz+o65KU023MgX5zngq+poSbInOMPETNpdlL/AGcit5bt4nSfgDGc4I7jTlFoWPLGfBrOjDapiyaHqEmRj+iux5fienhVRl2OfUYv6kdLliSWJ4pUDI67rKeRB7jRKmqZxJ72jm2sWLaffS2zZIU5UnvU8q8mUeiVHr45dcUysehGlEZxxq0A8JXezqocErNknu5UNiFuVDZLLTZsBNQmLHA+Dt+steh9lP8AHl/6v+UXiW7/AGKYIQo/ZXl71RkuTTXOny65Y6Q2ntHiCERSkuAYiAozg+hr1smN6nHili3pU/YeXHJHTzn1rn/PsM9q0IivpYheG83TjrsEb3vJrz8i6ZNXZ24W3BPp6fYXmhx/ZPZS70i1ZPhgl6xY3cL1g9TWbdPqODUN4dVHNLw/wLX92y0fZ/RpXVryCcSyqrBurBJ4Egnj2voqIW5yl2aDTP0mTLlivVf/AHyNdJqVtLtdFpV9u7oEVzZSZGVlUHeXP4y5+mvNlilHC5x9qf7M2wp9NnONreO1GqH/AMg9/kK9nRprBC/I2Ze7JLqDaFILBrXUYjNi40qdQpT8YMT4YPL6RXHrHhWoTyXB1tJX8ODt0rn0VCn7GVe11paWerdXZMMGMF4w+8Im+9H899dn2dkyZMNz8+fMw18IQy1Dy+BUJXpI89hkrRGbDoKtIzZJjFMhkmOgiiUnieVSwNTpMPVWScOL9o1tFUj0sEenGZ3pK1Y6foi2sTbs16xTIPEIOLe/IHtrHUz6Y0jaO7ORHnXnmpvOiSZU1e7hJ7UsA3ePgeNdOmdSZz6nwnUZYY542imjV0YYZWGQRXY6o4Laewy1sLS1RUtrWGJFGAEjArKorsNyk+WFe1glUiSCNgRyKCpdCUmu4rKzt7GDqbOCOCIEncjUAZ8az2XANt8sw3TFOqaZYW4xvPKXx5AVlkZ1aVO2zltvK8EqSxOUkjIZWHcRWR21ezPobZvU11nQ7S/XGZYxvgHkw4Ee+g8rJHom0U+3dp8nb3i8wTG36RXJqFe506OXMTEy+VYI7iK9WgJgSu5nbQ5UzjAJPhWTe9EtFja6FfXIDCExqeRkO7WkNLlnukZSnFFjFsm+AZbpQfBUrdfZ7fikYPOuwX/hKE8fhkm9/dFP/wAev1EPU12ATbHvj5G6QnwZMVEvs+VVGRH3pLsVV7s/qVsjMYDImOJiO9w9K5Z6XLDt8C1mxyKZkI7sHwrns12GMuDnw5VaJe6pg2Xn5nPtq0xDN0cOHsq15E1Qsca0RDEButvLwYDAI5gVqntRLPV4Dhwq02ZtIItaIzYZK0RDDpyq0QyTHVGbRKjoFRJjpMEtzaRpuqq9wAFanoXSSOUdKl0ZNo0gz2be3UY8CSWJ92K4NS7nRtj4sxh51zmh1vov0WO10f7JuoNxdZCH71AcfpBrswRSj1HBqZ3LpNuBWrZzDwKhsBwFQ2I9FZtjM9t5okWsbP3GUHwi2QyxN3jAyR7qzlua4J9Mv3OEjGM1B6Z17obuWl0O8tmYnqbjeXyDAfWDUs4dWvWTNRtdGJNBuMj5hVh7/wCNYZd4memf4qOZyca5z1URnq0Bo9N0ia+YEdiHvc/VXp48MsjOvJNQNRY6Xa2QBhQGTvkbiT+yu7HhhjW3JxTyOQTUb+30y0kurpgkSczj6quUlFWyccPSSq6XmZA9I1qCd3T5yv8AeWuZ6ryRo8WD9T+C+oh0kW34PuPYy/tqfvD7Ij0OD9UvgvqOHSRacf6uufev7aUtRPyRL02D9UvgvqOHSRZDnp9170/bUvUZXwl8f9EvSYP1P4L6kDUtr9E1IfL6XdrL3SxlA4+nj7a5sqnl5ivi/oaQxYocSfwX1Kcano5HLUv8Ef71cnoM68v8/Q1vD5v4f7PPshop5jU/zcf71HodT/b/AJ+gvwfN/BfU9F9oZ5nVPzcX71Ho9X/b8X9Bfg+b+H+xfDNCPI6r+bi/eqlHWf2/F/QhrD5v4f7DTDTYAnXQ6um/xUmKLiP8VEMmeXh6dva/oXl06x+NNX5gTd6Kv4V9scX71aqWo8o/5+hg8cPNh4ksryGWTTZ5WaEb0kE6BXC/fDBII8e+toZpKSjkSXtW6/0zKePa0Dj9a7UqMGiQhq0ZtEiM1RNEpDQKiTGcYJ7qBVubjmc1Z0uWxxzpLUja65yOccZH+EV5+o/MZ1YXcDKnnWJqd02FmSfZPTWTHZi3GHgQSP41245XBHmZlWRmgAptmQ8Cs2wPRUNiHAVDYEbVZkttLvJ5eCRwOT7jUNlQVyR835zk0j1+x1PoTiYQ6vKfms0SgeYDftFRM49X2NvtWd3Z68P4o/SK558GOm/NRy6QjJ8zWaR6i4I7njVIZ1ZEWNQqKFUDAAr6VbKkRKV8jx4d1Bi2Y3pNcroan/urwrm1HhN8L/Cn7i2HQTOI0aXaSBCfnf0M4B8M9ZxrhsmhL0FMThdqYCcchZE//SiwoeOgSc89pYv8if8AcosKF8Qk/wDaSL/In/cosKPfiEn/ALSx/wCRP+5RYUefEJP/AGki/wAif9yiwK5ehXUG12XT/sky2yQLKL42fybsTjcx1nMc/wCc0WOiZc9B5tIWnudqbeOJBlnksyAo8/lKdsKIGldF9lqcTy6btba3ccZ3XKWbcD/jq4tnPmuJeXfRxPcwr8M2giKQg4drUgDx+7riWCGG/Rrk0y63NqelTd1/25z7a3Z46DqklkZ0uN1VdZUXdDBhkcMnHvpxm7oaK3ZYY11AeIMEwPn2DV5X+Ev3X8hLgkxnsj0r0TkZIQ1oiGiRGaomiTGaAokoQQRQHSbaxl6+0hl++QZ9e+rQmzm3S5YmPULK/UHdmiMTHHAMpyPob6K49THdM6tLK00YA865TqNjsFtcugyNa3wZrGRt4leJjbxA7xWmOfSYZsPXuuTr1jeWuoW4uLK4iniPJo2yK2ck+Dz5RceUScVDZI5RUNgeSyxW0RluZI4o1GWZ2Cge01DY0m+Ecq6Q9uIdSt20rR2L25Py04GA+PuV8vPvqTuw4On1pHOxTOo7d0S6e9nssJ5AQ13M0oyMdngo/Rn21jkluefqpXOiz27uOp0QQ5G9NIBjyHE1gx6SN5LOayHPE0qPSI7njVAdcFfSHM2e0jNsxfSh9ov/AHL9dcuo8J06Z/hz93zO67QRvLpgEVlHeuHVhDI+6Djvz5VwSaju3Q0UbJvGGS40KFXgb5LNyMrjHHOaqPrK0SpxlLpT3LWLUtUnUmDTo+EeSWnBAf73h+mlafBbi48ofZXmsPdGO90xI4S5AkjmzhfEimIuBQB7QBX6xqlnpNsbnULqO2hBxvyHAye6mvaVFGS1bavT9R0W4NrY3uq2UqsknweEsjDkRk8++qbjRpsjK7NbY7NwXDwLZNpUkjbrFlCqSPvscj61mmk7McsXJG1aOO5jMcqJNBMvEHtK6nx8RRP1jKGGjkvStuRbRyRRqFVYIgoHIDdrGMNzZxoyWy5/r6P8jN/ptWmVfhr91/JlPgLGeyPSvQ7nOHQ1aJokRmqQUSI2phRJjbBoDpNRs1cq8MkBJ3kO8ue8GnZlkjW4Ta3RRruhzWgA65flIW8HHL6x7axyLqQsU+iV9jiFsUtL9De23WrFJiWBjjexzFcPDPTdtbGo2m2WhXTLfXNnxLLps67zxni0X8Acjyq5R7oxx5fW6Jcma0iS/W9jj0qaeO4lYKvUuQTx78VBrLprc7/o1nc2enxRX15Ld3AHbkcDn4DA5VfB5c5Ju0qJVzD8IgaITSQlhwkjPaB8qlslOnZwbbGLVLTWJ7LVbye5aJso0jkgqeRA7uFSepj6XG4lBTNC02b0ebXdXgsIQe2e2w+4XvNJulZM5qEXJn0ZZW0Vpaw20ChYokCIo4AACuSTvc8htt2zn+3moC51UWyt8nbLun++edJI9TSY+mF+ZlHbPfmnR0gGNUI6/X0JxNnoFBk2YzpQH9Q/+1frrk1PCOvSv8Ofu+Z3zUReNbqNPZFl31J3xwK94riaT5NCvKau7ENaWIUMeOScr5D+eflxcfVVISik7Q2U66kdytpZWMfD5EiUnJxzOQOVJKinJvkM0muLdy7tvaPBgCMmQg9+TwHfw93tpiACfaNd9ns7NgThVWUnHEDwHmedAE/TZNTkEh1OC2hwcIsMhfI8STj9FAANe0qx1ez+DanaxXUIYNuSLkAjkaqNPk0x8mN1Syt9FCw6RFHZrIGWSK3UKrDzUc6c+nsaZUq2M9a7PaRdXSQ3GnW+5KSHZYwrZIPEMORz51k+DJGi2J2f1rSLp7WVnOihMxJdyI8yP5FOAB8Proi7exa2W5zPppbqturiP/xof1TWiRnJmX2WP9eR/kpv9Nqzy+AxnwEjPZHpXajNh0NWhUHRsVaFRIRqofSHRqB9JOsLxrS4SZOJXu8R3igTx9So3drNHcwpNC28jDINZSZxSi4umYnpA2LOo7+qaSgN2B8tCv8A+o++HnXPOF7o6MGevUkVHR9tfa6PbPpWsF4oxITHIVJ3CeasOYqIypUaZ8Ln60ToGnbR6JqN0trY3sMs7ZKog4nAJP0DNDZySxTiraLkCpbMxwFZtgck6aIlTWrCRRhntePsY04nfpH6rMLpthdaleJa2MDTTv8ANVR9J8qq0jpbUVbO7bDbJQ7M2B38S382OvlHIfir5fprlnk6jzcuV5HtwWG0usJo2mtKN03MnZgQ958T5DnWaVj0+L0s67HKZZGdmd2ZmY5LNzJ7zWvSevXkRnanQgLGgR2MV755rY6kZNmM6TxnQgPGZR+muXU9ju0b/Dn7vmS06ddXVFD6LZOwADN1rDJ7ziuWjUd8fGq/gOy/PNSoLF8fGq/gOy/PNRQWL4+NV/Adl+eaigsXx8ar+A7L881FBYvj41X8B2X55qKCzxunTVH4HQ7Ll3zPToadHsu1Wka3di512T4NE9uLiHqpz877pDjjvA93fxqGaWmQ9T2p01Fgl0BrRJS3OeRgUA5lv540rH6qRNfpvvoW3INHtJUXshy7KWHjjuzVRjRk5HO9rtobnajXJtWvIo4pJFVBHGchVUYHrVoTY3ZT7dJ+Sm/02rPL4TPL4QiHsj0FdaAKrVYqDI1Wh0HRqaHQdWqhpBlegui30PWH06Uq+Xt3+cueXmP541Mo2Z5cHpF7TbW00VzCstu4dG5EVzStHmSi4umUO0mxml6/vTOvwe7P/URcz/eHI1i0aY88se3JndlNiNU2e2ttbuXqrmyVZAZomAK5QgZU8efhmpNsmeOTG0dKAqGzjHAVDYGR2w2Mk2o1azme7W3tYISjYGXY72eHcOHf9FJZKOjFn9FFovdA2d03QLfqtOgCsw7UjcXf1NZyk2ZTySm/WD6xq9po9v1ty4LkfJxA9p/4edQouReLDLK6XxOXaxqlxqt29zctxPBVHJR4Ct1FLY9fHjjjXTErGanRYFjRRLAsadEnaa9s8hs9FS+CLMb0m4GggnunX665dQ/WXvO/Rfl5Pd8zlxIUlWIUg4IPAisDc8DBjhSCfI0AIso5sB60Ae0CFQAqAFmgBwbFFDsW+aXSB4TTEeUAW+yv26T8lN+o1Tk8Jnm8AkPAegroLaCqasKCq1VY6DI1NMpIMrVSY0gytTLoKr0FJEzT9SuNPk37Z+B+cjcVb1FTKKkLJijkVSRrtP2pspxi6zbyd5PFT7a5Z4muDzsmiyR8O5eQSxTrvQSJIPFWzXPJ0ckoyjyg2KzbJHKueQrNsCPd39nZoWurmKLHi3H3Uqk+DSOKcvCjM6vttGgaPS499iP+dIMD1x3+2tI4XyzuxaDvP4GJvbye8nae6laWVubNz/h6Vr0pbI71BRVRRDdqKACzUqEwTNRRLBE0qJO217J4rY4Cs2xGV29jnlsbSOzANy99CsOcfPJ7PPhzxzrlzv1o+89HRfl5Pd8yr/4Z26jdIhZ6ccsQAHiIGMtgnPD21DTXJopJ8Ge12TX9n9RFtqkdtFOYgwVUR13T3gj0pFEBNo9QVpGzAxkI3t6BT3UCKpm33Z25sSaAPOFAC4UALhQAuFAC4UALhQAuFAy22Wx9mU/JTfqNUy4Mc35fw/kap7I9BW6Zt3HqapDSCq1VY6ChqpFJBVamUkFV6ZSQQPTKSHB6C0h4ekyqHJMyNlHZT4gkGpasOlPklJrOoxjsX9yvpKayeOPkjN4Mf6V/3uBzarfygiW9uHz3NIaj0cV2Q1hxr+lEF5CSSxJPiTmgqqBs/OpaEwTNUtCAs1S0SwbGlRIJjQSwZNBJ3ICvTbPEHCobAy+3FxLaWtjdW8XWzQX8EkcfHtsrZC8PEjFcmd+vH3noaL8vJ7vmVr9Jmqb4i/4YjG72niJlJIK4HdkcDmnKTlyaQgocGQ2v1q61+/ivrnTvgKLEsUaKG3cLnvYc+NTRZQ0AKgBUAe0CFQAqAFQAqAFQMtdl/tyn5Kb9RqT4MM+2P3r+Qansj0FaJnRW48GrTKSHhqaYwitVWMKrU0y0EVqqykPD0ykhwegodv0hi36VjFv1LAaXqGAwvUsQxnqWiWCZqTJYNmqWSDZqRIwmkJg2NIk7uBXoNniHoFQ2Bltu7eW7s7O2tpOqmmv4I45M/MZmwD7DXLl8cPeehovy8nu+ZBPRzr/WxAbSxHJZGkKvkYy3jxGRWmTHKFWVjyxyXQp+izXLmaWG72gt3WOQBd9HYElQcjj51x5tTHE0mdMMbkrIbdEmpCAP9l7IyEgdVuNnBk3M++rjmUpKKMHNJ0NboqvA3DW7Fo1LCR1ic7m6MnhW+SMoLchZotWFt+iHULhm3dYs93fVEbqn7eUDDh3cD9FKFzVlelVWc/vrZrK+ubSRgz28zxMy8iVYjP0UGgCgQqAFQAqAFQMtdl/twv5Kb9RqDDUfl+9fyBU9kegqjp7jgapMoeDTGPDVSY0h6tVJljw1OxoeGpljt+ixnu/RYxb9IYt+kA0vUsmxpapYhjNUsTGFqlk2MLUhMGxpEsaTSJGGkI72K7GeIeioYGR6RbmWy0mK7t2CzW93FLGSM4ZckfSK58m+SHvO/Rfl5Pd8zIfGrtS0iv19opRicLaoASRg54cedW25c9jWMIxex7H0sbVRO8izWmZCCQbVcAgAcPcKxyYIZEpSW5qptcDPjS2pMQg+E22AQ298GXeyG3+frVRxR6kyHBN2O+NXanKyia0BRicC1TBLDiT41pP1lv5kLFFbDoulva2J5ZFuLXMjhiDbLgEKF4eHACpSpbFdCMpPcy3txLdXBBlnkaVyBjLMST9JplA6BCoAVACoAVAy22Y+3C/kpv1GoOfUfl+9fyRl5D0FM6u48VSKHCqGh4popDs1RQ4GgaHg0yz0GmM9zQMWaQCzSA8JpMQ0mpEMY1LJY2kSNNITBtSJY2pYjw0CP//Z alt="Banner do Perfil" width="800"/>
+</p>
 
-*italico* ou _italico_
-**Negrito** ou _negrito_
+---
 
-- Lista 1
-- Lista 2
-  - Sublista 1
+## 🔗 Conecte-se comigo
+
+<p align="left">
+<a href="hhttps://www.linkedin.com/in/andré-dantas-pcd-🦻💙🧩-11444721a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+---
+
+## 👨‍💻 Sobre Mim
+
+<p align="left">
+Sou uma pessoa em busca sempre de novos desafios,focado em entregar o meu melhor.
+
+- 🌱 Estou sempre aprendendo e atualmente focando em **Arquitetura de Micro-serviços** e **DevOps**.
+- 👯 Procuro colaborar em projetos open-source que envolvam **tecnologias web modernas e tecnologias Devops**.
+- 💬 Me pergunte sobre **VMware**, **Openstack**, **Proxmox**, **etc..**.
+- 📫 Como me encontrar: **[adantasdf@gmail.com]**
+</p>
+
+---
+
+## 🚀 Minhas Skills
+
+<div style="display: inline_block"><br>
+  <h4>Linguagens</h4>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<div style="display: inline_block"><br>
+  <h4>Front-End</h4>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+</div>
+
+<div style="display: inline_block"><br>
+  <h4>Back-End & Banco de Dados</h4>
+  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
+
+<div style="display: inline_block"><br>
+  <h4>Ferramentas & DevOps</h4>
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+</div>
+
+---
+
+## 📊 Minhas Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/adantasdf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adantasdf-&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adantasdf &layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+## 📂 Meus Principais Projetos
+
+| Projeto | Descrição | Tecnologias |
+|---------|-------------|-------------|
+| **[Nome do Projeto 1](https://github.com/adantasdf)** | Uma breve descrição do que este projeto faz e seu propósito. | React, Node.js, PostgreSQL |
+| **[Nome do Projeto 2](https://github.com/adantasdf/adantasdf/blob/main/cursos_alura_3)** | Uma breve descrição do que este projeto faz e seu propósito. | Python, Flask, Docker |
+
+
+<div align="center">
+
+### Obrigado pela visita!
+
+</div>
