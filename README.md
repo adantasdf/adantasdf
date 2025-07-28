@@ -43,8 +43,8 @@ Sou uma pessoa em busca sempre de novos desafios,focado em entregar o meu melhor
 
 | Projeto | Descrição | Tecnologias |
 |---------|-------------|-------------|
-| **[Nome do Projeto 1](https://github.com/adantasdf)** | Uma breve descrição do que este projeto faz e seu propósito. | React, Node.js, PostgreSQL |
-| **[Nome do Projeto 2](https://github.com/adantasdf/adantasdf/blob/main/cursos_alura_3)** | Uma breve descrição do que este projeto faz e seu propósito. | Python, Flask, Docker |
+| **[Projetos Gerais](https://github.com/adantasdf)** | Uma breve descrição do que este projeto faz e seu propósito. | React, Node.js, PostgreSQL |
+| **[Arquitetura CSS](https://github.com/adantasdf/adantasdf/tree/main/arquitetura-css-assets)** | Uma breve descrição do que este projeto faz e seu propósito. | Python, Docker, HTML 5, CSS|
 
 
 <div align="center">
